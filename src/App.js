@@ -1,12 +1,11 @@
-import logo from './logo.svg';
+
 import './App.css';
+import HeaderResponsive from './Components/HeaderResponsive';
 
 function App() {
   return (
     <div className="App">
-     <header className="Header">
-      Hello header
-     </header>
+     <HeaderResponsive/>
     </div>
   );
 }
