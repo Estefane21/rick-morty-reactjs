@@ -8,6 +8,6 @@ function App() {
      <HeaderResponsive/>
     </div>
   );
-}
+  }
 
 export default App;
